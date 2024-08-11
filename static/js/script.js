@@ -1,1 +1,1 @@
-console.log("belsebub");
+console.log("");
